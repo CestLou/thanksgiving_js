@@ -88,12 +88,12 @@ h1{
     margin: 20px;
     width: 400px;
     background: #DDDDDD;
-    borer-radius: 5px;
+    border-radius: 5px;
 }
 .wrapper .stage #second{
     float: left;
     margin: 20px;
     width: 400px;
     background: #CCCCCC;
-    borer-radius: 5px;
+    border-radius: 5px;
 }
